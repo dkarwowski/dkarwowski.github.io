@@ -2,8 +2,7 @@
 title: David Karwowski
 email: david@dkarwowski.me
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for David Karwowski including blog,
-  and general project development.
+  I'm David Karwowski, a student at UConn studying Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dkarwowski.me" # the base hostname & protocol for your site
 github_username:  dkarwowski
