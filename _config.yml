@@ -10,3 +10,7 @@ github_username:  dkarwowski
 
 # Build settings
 markdown: kramdown
+highlighter: true
+
+# permalink
+permalink: pretty
