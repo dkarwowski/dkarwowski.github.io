@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Who am I?"
+date:   2015-05-11 00:27:00
+categories: site update
+---
+
+After quite a bit of time working on projects on my own, I've decided to start
+a blog of sorts. Mostly, this is a website to showcase my work. I plan on
+moving some [project][gh-projects] examples onto a page here, as well as some 
+sort of resume page. Leaves me with... a lot of work.
+
+I'm new to web development, however I'm even more new to Jekyll. Because of
+this, I'm not so sure what I'm trying to get at right now? However, I do plan
+on trying to use the blog service somewhat as well. Potentially updates
+regarding certain projects, to motivate myself to produce more finished copies. 
+
+I making this more as an exercise for myself than anything else, to see how
+much web development I can learn to create customized CSS files to create what
+I believe to be a much nicer looking website than what I have at the moment. I
+hope to one day look back and see this post as the first of many, on a very
+nice looking site. 
+
+Perhaps even my writing will get better.
+
+[gh-projects]: http://github.com/dkarwowski
