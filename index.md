@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello!
+#Hello!
 
 Welcome to my website. My name is David, and you can feel free to [read][about] all about me!
 
