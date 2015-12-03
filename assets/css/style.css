@@ -28,8 +28,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
@@ -89,6 +87,20 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
+table {
+    width: 75%;
+    margin: 0 auto;
+}
+
+th {
+    background: #073642;
+    border: 5px solid #002b36;
+    width: 1%;
+}
+
+td {
+    text-align: center;
+}
 
 
 /*** Useful Classes ***/
@@ -171,7 +183,7 @@ article h1 {
 	margin: 0 0 10px 0;
 }
 article h1 a {
-	border: none;
+	border: 2px;
 }
 article h1 a.anchor {
 	margin-left: 8px;
@@ -187,6 +199,10 @@ article .meta {
 	padding-top: 6px;
 	font-size: 0.85em;
 	font-style: italic;
+}
+
+article table, th, td {
+    border: 1;
 }
 
 img.left {
