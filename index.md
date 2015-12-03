@@ -28,9 +28,4 @@ that are important to understand:
 I'll try to create a post that goes over the basics, as well as the notation
 used.
 
-{% highlight python %}
-def function(test):
-    pass
-{% endhighlight %}
-
 [about]: {{ "/about/" | prepend: site.baseurl }}
