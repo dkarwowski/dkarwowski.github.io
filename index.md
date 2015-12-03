@@ -2,12 +2,30 @@
 layout: default
 ---
 
-#Hello!
+#Welcome!
 
-Welcome to my website. My name is David, and you can feel free to [read][about] all about me!
+Honestly, this is a pretty empty website for now. As it fills up, I'll try to
+keep everything up to date regarding it. Currently, I'm working through an
+outline of information that I'd like to cover. I'll be attempting to take ideas
+I found interesting, or that I'm forced to learn in class, and simplify them.
+Find the easy, simple idea behind it. The reason why it works.
 
-This is just a website where I'll be hosting my projects and resume, as well as an exercise 
-in web development. I hope to end up with a few fun web games up on here as I progress with
-JS/HTML/CSS.
+The plan is to append to my learning and try to explain things to people. It
+comes as an idea from a friend. While video teaching would also be fun, I'm not
+the video type. 
+
+##Basics
+
+There are some things that you'll need to know to start off. I'll try to ensure
+each individual post has some links for background information, as well as
+references for where I find my information. There are, however, these basics
+that are important to understand:
+
+ * Boolean Algebra, with basic logical expressions
+ * Set Theory, including their properties and actions on them
+ * Number Theory, just the basics
+
+I'll try to create a post that goes over the basics, as well as the notation
+used.
 
 [about]: {{ "/about/" | prepend: site.baseurl }}
