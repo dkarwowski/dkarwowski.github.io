@@ -9,6 +9,7 @@ github_username:  dkarwowski
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 # permalink
 permalink: pretty
