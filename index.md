@@ -28,4 +28,9 @@ that are important to understand:
 I'll try to create a post that goes over the basics, as well as the notation
 used.
 
+~~~ python
+def function(test):
+    pass
+~~~
+
 [about]: {{ "/about/" | prepend: site.baseurl }}
