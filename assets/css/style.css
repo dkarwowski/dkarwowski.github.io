@@ -14,7 +14,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: bullet;
+	list-style: disc;
 }
 blockquote, q {
 	quotes: none;
@@ -54,8 +54,10 @@ small { font-size: 0.85em; }
 sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
-code, tt {
-    font: 0.85em Monaco, Courier, Monospace;
+code {
+    font: 0.9em Monaco, Courier, Monospace;
+    color: #586e75;
+    margin-right: 1px;
 }
 
 blockquote {
@@ -90,6 +92,7 @@ h3 {
 table {
     width: 75%;
     margin: 0 auto;
+    margin-bottom: 15px;
 }
 
 th {
@@ -114,9 +117,52 @@ dd {
     margin-left: 15px;
 }
 
-tt {
+/*** Resume ***/
+.content table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.resume div hr {
+    border: 0;
+    height: 1px;
+    background: #cb4b16;
+    margin-top: -5px;
+}
+
+.resume div {
+    margin-bottom: 15px;
+}
+
+.title td {
+    text-align: left;
+}
+
+.dates td {
+    text-align: left;
     color: #586e75;
-    margin-right: 1px;
+    font-style: italic;
+}
+
+.content h2 {
+    display:inline-block;
+    color: #268bd2;
+    text-align: left;
+    margin: 0;
+}
+
+.content h3 {
+    color: #586e75;
+    text-align: right;
+    margin: 0;
+}
+
+.contact table {
+    width: 100%;
+}
+
+.contact td {
+    text-align: left;
 }
 
 

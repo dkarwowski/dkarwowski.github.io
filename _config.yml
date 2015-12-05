@@ -1,8 +1,16 @@
 # Site settings
-title: David Karwowski
-name: David Karwowski
-url: dkarwowski.me
-email: david@dkarwowski.me
+title: explain this.
+author:
+    name: David Karwowski
+    url: dkarwowski.me
+    email: david@dkarwowski.me
+    github: dkarwowski
+    linkedin: dkarwowski
+    address:
+        street: 69 Capitol Drive
+        town: Shelton, CT 06484
+        country: United States
+
 description: > # this means to ignore newlines until "baseurl:"
     A student at the University of Connecticut trying to understand stuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
