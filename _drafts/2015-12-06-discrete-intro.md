@@ -110,6 +110,10 @@ DeMorgan's Law
 
 ## Logic
 
+Alright, next up comes basic logic. We can use logic to prove ridiculous things
+(like $$ 0.\bar{9} = 1 $$) or just prove something we already know to make
+sense (like $$ \frac{1}{2}=\frac{2}{4} $$).
+
 ### Forming Arguments
 
 ## Proofs
