@@ -13,7 +13,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
 	line-height: 1;
 }
-ol, ul {
+ul {
 	list-style: disc;
 }
 blockquote, q {
@@ -30,7 +30,7 @@ table {
 
 /*** Basics ***/
 body {
-	font-family: Verdana, serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	line-height: 1.7;
 }
@@ -55,9 +55,12 @@ sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
 code {
-    font: 0.9em Monaco, Courier, Monospace;
+    font: 0.9em 'Inconsolata', Courier, Monospace;
     color: #586e75;
     margin-right: 1px;
+}
+
+code.has-jax {
 }
 
 blockquote {
@@ -229,12 +232,10 @@ dd {
 
 #sidebar a {
 	border: none;
-	font-family: "Helvetica Neue", "Helvetica", serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 1.2em;
 	padding: 2px 4px;
 }
-
-
 
 /*** Posts ***/
 article {
