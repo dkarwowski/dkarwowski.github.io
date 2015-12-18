@@ -31,7 +31,7 @@ table {
 /*** Basics ***/
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 1.7;
 }
 
@@ -80,15 +80,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 19px;
+	font-size: 25px;
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 16px;
+	font-size: 23px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 
@@ -187,17 +187,18 @@ dd {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 700px;
 	margin: 0 auto;
 	position: relative;
+    text-align: justify;
 }
 
 #header {
-	width: 500px;
+	width: 700px;
 	margin: 40px auto 50px auto;
 }
 #header h1 {
-	font-size: 32px;
+	font-size: 40px;
 	margin-bottom: 4px;
 }
 #header h1 a {
@@ -205,7 +206,7 @@ dd {
 }
 
 #footer {
-	width: 500px;
+	width: 700px;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
 	font-size: 0.85em;
@@ -213,7 +214,7 @@ dd {
 }
 
 #content {
-	width: 500px;
+	width: 700px;
 	margin: 0 auto;
 }
 
