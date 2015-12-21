@@ -5,8 +5,8 @@ stuff, with some customization.
 
 ## Theme
 
-I'm using a [https://github.com/mattvh/solar-theme-jekyll](Solarized Theme
-curtesy Matt H.). I've been building up a customization of it, perhaps
+I'm using a [Solarized Theme curtesy Matt H.](https://github.com/mattvh/solar-theme-jekyll). 
+I've been building up a customization of it, perhaps
 eventually being able to call it my own theme. I'll probably end up going
 through a few different rounds of themes, this is just the current one.
 
