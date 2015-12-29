@@ -1,5 +1,5 @@
 # Site settings
-title: univ to dev
+title: univ2dev(&me) 
 author:
     name: David Karwowski
     url: dkarwowski.me
@@ -12,7 +12,7 @@ author:
         country: United States
 
 description: > # this means to ignore newlines until "baseurl:"
-    A lowly student working to become a professional Coder
+    looking for the challenges to learn something
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dkarwowski.me" # the base hostname & protocol for your site
 github_username:  dkarwowski

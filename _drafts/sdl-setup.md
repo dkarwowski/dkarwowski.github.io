@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SDL Setup"
+tags: [SDL2, C]
 ---
 
 So let's start with a quick explanation. I've done some research, and I've
