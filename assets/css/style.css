@@ -31,7 +31,7 @@ table {
 /*** Basics ***/
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 	line-height: 1.7;
 }
 
@@ -94,15 +94,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 25px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 23px;
+	font-size: 18px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 20px;
+	font-size: 15px;
 	margin: 0 0 10px 0;
 }
 
@@ -113,8 +113,8 @@ table {
 }
 
 th {
-    background: #073642;
-    border: 5px solid #002b36;
+    background: #002b36;
+    border: 5px solid #073642;
     width: 1%;
     text-align: center;
 }
