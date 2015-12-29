@@ -23,11 +23,9 @@ title: Archives
                 </td>
                 <td class="blank">
                 </td>
-                {% for tag in post.tags %}
-                    <td class="tag">
-                        {{ tag }}
-                    </td>
-                {% endfor %}
+                <td class="tag">
+                    {{ post.category }}
+                </td>
             </table>
 		</article>
 	{% endfor %}
