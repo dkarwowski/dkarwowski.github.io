@@ -123,6 +123,31 @@ td {
     text-align: center;
 }
 
+table.archive {
+    width: 100%;
+    margin: 0;
+}
+
+td.title {
+    text-align: left;
+    width: 1%;
+    white-space:nowrap;
+}
+
+td.date {
+    text-align: left;
+    width: 1%;
+    white-space: nowrap;
+    padding-left: 15px;
+}
+
+td.tag {
+    width: 1%;
+    white-space: nowrap;
+    text-align: right;
+    padding-left: 15px;
+}
+
 dl {
     margin: 0 0 15px 0;
 }
