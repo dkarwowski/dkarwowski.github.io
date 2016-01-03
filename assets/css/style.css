@@ -55,7 +55,7 @@ sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
 code {
-    font: 1em 'Inconsolata', Courier, Monospace;
+    font: 1em 'Source Code Pro', 'Inconsolata', Courier, Monospace;
     color: #586e75;
 }
 
@@ -69,8 +69,8 @@ code {
     padding: 0;
 }
 
-pre code {
-    font: 0.9em 'Inconsolata', Courier, Monospace;
+pre code span {
+    font: 1em 'Source Code Pro', 'Inconsolata', Courier, Monospace;
     margin: 0;
 }
 
