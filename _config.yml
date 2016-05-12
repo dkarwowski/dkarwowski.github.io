@@ -2,8 +2,8 @@
 title: univ2dev(&me) 
 author:
     name: David Karwowski
-    url: dkarwowski.me
-    email: david@dkarwowski.me
+    url: www.dkarwowski.com
+    email: info@dkarwowski.com
     github: dkarwowski
     linkedin: dkarwowski
     address:
@@ -14,7 +14,7 @@ author:
 description: > # this means to ignore newlines until "baseurl:"
     looking for the challenges to learn something
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dkarwowski.me" # the base hostname & protocol for your site
+url: "http://www.dkarwowski.com" # the base hostname & protocol for your site
 github_username:  dkarwowski
 
 # Build settings
