@@ -1,29 +1,59 @@
-# Site settings
-title: univ2dev(&me) 
-author:
+# Harmony Jekyll theme general configurations 
+
+# Base URL
+baseurl: 
+
+# Site live URL
+url: http://www.dkarwowski.com
+
+# Localhost 
+# url: http://127.0.0.1:4000  
+
+# Harmony theme configuration. Please change accordingly.
+harmony:
+  name: David Karwowski
+  # Little description about your site
+  description: Senior at UConn, Ready to start work
+  # 'meta_description:' Write an awesome description for your new site here.
+  # It will appear in your document head meta (for Google search results) and 
+  # in your feed.xml site description.
+  meta_description: > # 
+      David Karwowski, graduating from the University of Connecticut to start
+      work at Google in Cambridge, MA this upcoming June.
+  basetheme: darken # pre defined thmes are darken, blue-water, redish.
+  author: # Author details
     name: David Karwowski
-    url: www.dkarwowski.com
-    email: info@dkarwowski.com
+    email: karwowski.david@gmail.com
+    url: http://www.dkarwowski.com
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
+
+  # Profile links, leave blank to ignore
+  social: 
     github: dkarwowski
-    linkedin: dkarwowski
-    address:
-        street: 69 Capitol Drive
-        town: Shelton, CT 06484
-        country: United States
+    twitter: '0x646b'
+  # Toggle disclaimer in footer
+  show_disclaimer: true
 
-description: > # this means to ignore newlines until "baseurl:"
-    looking for the challenges to learn something
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.dkarwowski.com" # the base hostname & protocol for your site
-github_username:  dkarwowski
+# Conversion / Build settings 
+markdown:    kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: pygments 
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
+# Permalinks
+permalink:        pretty
 
-# permalink
-permalink: pretty
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
 
-paginate: 10
-
-gems: [jekyll-paginate]
+# Sass conversion configs
+sass:
+    sass_dir: assets/css/_sass
+    style: :compressed
