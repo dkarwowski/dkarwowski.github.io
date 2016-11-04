@@ -15,7 +15,7 @@ getting to join!
 ### Contact me
 
 Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[info@dkarwowski.com][info@dkarwowski.com].
+[info@dkarwowski.com](mailto:info@dkarwowski.com).
 
 [uconn]: https://cse.uconn.edu/
 [google]: https://google.com/
