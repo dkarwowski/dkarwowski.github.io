@@ -4,24 +4,20 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hello! I'm David Karwowski, a developer finishing up my last year at the
+[University of Connecicut][uconn]. I'll be graduating with a Bachelors of
+Science in Computer Science with a minor in Mathematics.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I've also accepted a position with [Google][google] to start as a Software
+Engineer at the Cambridge office. Looking forward to finishing school and
+getting to join!
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at 
+[info@dkarwowski.com](info@dkarwowski.com).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[google]: https://google.com/
+[github]: https://github.com/dkarwowski
+[twitter]: https://twitter.com/0x646b
