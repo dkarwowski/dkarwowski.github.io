@@ -4,7 +4,7 @@
 baseurl: 
 
 # Site live URL
-url: http://www.dkarwowski.com
+url: https://www.dkarwowski.com
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -24,10 +24,10 @@ harmony:
   author: # Author details
     name: David Karwowski
     email: karwowski.david@gmail.com
-    url: http://www.dkarwowski.com
+    url: https://www.dkarwowski.com
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-96542689-1
 
   # Profile links, leave blank to ignore
   social: 
