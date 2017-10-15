@@ -4,13 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hello! I'm David Karwowski, a developer finishing up my last year at the
-[University of Connecicut][uconn]. I'll be graduating with a Bachelors of
-Science in Computer Science with a minor in Mathematics.
-
-I've also accepted a position with [Google][google] to start as a Software
-Engineer at the Cambridge office. Looking forward to finishing school and
-getting to join!
+Hello! I'm David Karwowski, a software engineer at [Google][google]. I work on
+networking related things. I work with a few languages-- Go, C++, Python. Done
+with school but occasionally consider going back.
 
 ### Contact me
 

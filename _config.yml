@@ -13,13 +13,12 @@ url: https://www.dkarwowski.com
 harmony:
   name: David Karwowski
   # Little description about your site
-  description: Senior at UConn, Ready to start work
+  description: Software Engineer
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-      David Karwowski, graduating from the University of Connecticut to start
-      work at Google in Cambridge, MA this upcoming June.
+      David Karwowski, developing at Google in Cambridge.
   basetheme: darken # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: David Karwowski
